@@ -1,1 +1,1 @@
-#Redux and immutable arrays - Demo 
+#Redux and immutable objects - Demo 
